@@ -96,7 +96,7 @@ If you need support or have any questions, feel free to reach out to the project
 
 ## Credits
 
-This project is developed and maintained by [Your Name](https://your-website.com). We would like to thank the following contributors for their valuable contributions:
+This project is developed and maintained by Wagdy9(https:(https://wagdy9.art.blog/). We would like to thank the following contributors for their valuable contributions:
 
 - [Contributor 1](https://github.com/contributor1)
 - [Contributor 2](https://github.com/contributor2)
