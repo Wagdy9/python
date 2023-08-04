@@ -1,0 +1,11 @@
+# type built in function
+# type()
+print(type(100.9))
+print(type(1))
+print(type("wagdy"))
+print(type(1.9))
+print(type(-100.9))
+print(type([1.5, 1.2, 1, "wagdy"]))
+print(type((1.5, 1.2, 1, 5)))
+print(type({"one": 1, "two": 2, "three": 3}))
+print(type((2 == 4)))
